@@ -1,7 +1,3 @@
-You have several repositories with a variety of technologies and purposes. Here is an overview to help you draft an engaging GitHub profile README.md that highlights your skills, interests, and key projects:
-
----
-
 ## 👋 Hi, I'm Mazher Mehboob
 
 I'm passionate about building robust, efficient, and scalable solutions—ranging from personal configuration files to enterprise-grade infrastructure automation and modern web applications. Below are some highlights from my GitHub portfolio:
