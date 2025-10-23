@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @mazhermehboob
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+You have several repositories with a variety of technologies and purposes. Here is an overview to help you draft an engaging GitHub profile README.md that highlights your skills, interests, and key projects:
 
-<!---
-mazhermehboob/mazhermehboob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👋 Hi, I'm Mazher Mehboob
+
+I'm passionate about building robust, efficient, and scalable solutions—ranging from personal configuration files to enterprise-grade infrastructure automation and modern web applications. Below are some highlights from my GitHub portfolio:
+
+---
+
+### 🛠️ Tech Stack & Interests
+
+- **Languages & Tools:** JavaScript, TypeScript, HCL, Shell, TSQL, Python, CSS, HTML, Handlebars, MDX, Makefile, Docker
+- **Cloud & DevOps:** Azure, Terraform, CI/CD with Jenkins
+- **Web Development:** React, Node.js, PWA, Material-UI
+- **Database:** Azure SQL, migrations with Flyway
+- **Infrastructure as Code:** Strong focus on HCL (Terraform) for automating cloud resources
+- **Security & Configuration:** Azure AD B2C, App Configuration, Key Vault
+
+
+---
+
+### 🌱 Current Learning Goals
+
+- Advanced Azure DevOps automation
+- Scalable React PWA architectures
+- Secure, cost-effective cloud infrastructure
+
+---
+
+### 📫 Connect
+
+- Reach me via [GitHub Issues](https://github.com/mazhermehboob/mazhermehboob/issues) or [LinkedIn](#)
+
+---
