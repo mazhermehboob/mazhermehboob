@@ -266,7 +266,7 @@ Part-time Tier 2/3 support for student housing ISP
 | 🚀 **Microservices Migrated** | 19+ (PCF → AKS) |
 | 🔒 **Security Fixes** | 26+ services |
 | 👥 **Team Built** | API Squad (0 → High-Performing) |
-| 🏢 **Property Portal** | Web portal with Buildium/MIPP integration (2020-Present) |
+| 🏢 **Property Portal** | Web portal with Buildium/MIPP integration |
 | 📊 **Insurance EDI Platform** | 6 years ownership (zero critical outages) |
 | 🏢 **Distributors Supported** | 50+ (insurance EDI) |
 | 📈 **Monitoring Improvement** | 90% (PRTG implementation) |
